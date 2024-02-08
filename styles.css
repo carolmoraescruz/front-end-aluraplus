@@ -93,3 +93,12 @@ body {
 .description__text {
     color: var(--secondary-grey);
 }
+
+.secondary__button {
+    display: inline-block;
+    margin-top: 1em;
+}
+
+.container__description {
+    padding: 2em;
+}
