@@ -73,3 +73,23 @@ body {
     color: var(--secondary-grey);
     font-size: 0.75rem
 }
+
+.secondary {
+    align-items: center;
+    margin: 0 10em;
+}
+
+.secondary__image {
+    width: 80%
+}
+
+.description__title {
+    font-size: 3rem;
+    font-weight: 700;
+    color: var(--main-white);
+    margin-bottom: 0.1em;
+}
+
+.description__text {
+    color: var(--secondary-grey);
+}
