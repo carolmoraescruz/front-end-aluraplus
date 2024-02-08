@@ -123,3 +123,26 @@ body {
     font-size: 2rem;
 }
 
+.footer {
+    text-align: center;
+    margin: 5em 3em;
+}
+
+.footer__list {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    margin-top: 1em;
+    gap: 1.2em;
+}
+
+.list__link {
+    text-decoration: none;
+    color: var(--main-white);
+}
+
+.footer__text {
+    font-size: 0.875rem;
+    color: var(--secondary-grey);
+    margin: 1em 0;
+}
