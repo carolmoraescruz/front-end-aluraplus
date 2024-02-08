@@ -102,3 +102,24 @@ body {
 .container__description {
     padding: 2em;
 }
+
+.devices {
+    text-align: center;
+    color: var(--main-white);
+}
+
+.devices__title {
+    font-size: 3rem;
+}
+
+.devices__list {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    margin: 5em 0;
+}
+
+.list__item {
+    font-size: 2rem;
+}
+
